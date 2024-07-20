@@ -17,9 +17,9 @@
     "react-syntax-highlighter": "^15.5.0",
     "remark-gfm": "^4.0.0",
     "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4",
+    "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/gitjit/my-blog.git",
+  "homepage": "https://jithesh.io/gitjit/my-blog",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -50,5 +50,4 @@
     "@types/react-syntax-highlighter": "^15.5.13",
     "gh-pages": "^6.1.1"
   }
-  
 }
