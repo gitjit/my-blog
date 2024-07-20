@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gitjit/my-blog.git/static/css/main.e6c13ad2.css",
-    "main.js": "/gitjit/my-blog.git/static/js/main.9a5a1a33.js",
-    "static/js/919.80837672.chunk.js": "/gitjit/my-blog.git/static/js/919.80837672.chunk.js",
-    "index.html": "/gitjit/my-blog.git/index.html",
-    "static/media/my-first-post.md": "/gitjit/my-blog.git/static/media/my-first-post.95afc604d4b477265c4e.md",
-    "main.e6c13ad2.css.map": "/gitjit/my-blog.git/static/css/main.e6c13ad2.css.map",
-    "main.9a5a1a33.js.map": "/gitjit/my-blog.git/static/js/main.9a5a1a33.js.map"
+    "main.css": "/gitjit/my-blog/static/css/main.e6c13ad2.css",
+    "main.js": "/gitjit/my-blog/static/js/main.24eff603.js",
+    "static/js/919.80837672.chunk.js": "/gitjit/my-blog/static/js/919.80837672.chunk.js",
+    "index.html": "/gitjit/my-blog/index.html",
+    "static/media/my-first-post.md": "/gitjit/my-blog/static/media/my-first-post.95afc604d4b477265c4e.md",
+    "main.e6c13ad2.css.map": "/gitjit/my-blog/static/css/main.e6c13ad2.css.map",
+    "main.24eff603.js.map": "/gitjit/my-blog/static/js/main.24eff603.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9a5a1a33.js"
+    "static/js/main.24eff603.js"
   ]
 }
