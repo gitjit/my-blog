@@ -1,6 +1,11 @@
+# My First Post
+
+This is my first blog post written in Markdown.
+
+```jsx
 // src/App.tsx
-import React from 'react';
-import BlogPost from './BlogPost';
+import React from "react";
+import BlogPost from "./BlogPost";
 
 const App: React.FC = () => {
   return (
@@ -12,3 +17,4 @@ const App: React.FC = () => {
 };
 
 export default App;
+```
